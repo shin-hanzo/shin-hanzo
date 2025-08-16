@@ -1,4 +1,4 @@
-![Untitled](https://github.com/user-attachments/assets/09b32c83-d8da-4d78-8cee-853b0c493fda)<h1 align="center">Hi 👋, I'm Shin</h1>
+<h1 align="center">Hi 👋, I'm Shin</h1>
 <h3 align="center">A passionate Programmer Robotics from Iran</h3>
 
 <img align="center" alt=" " width = "643 * 304" src="***">
