@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shin</h1>
-<h3 align="center">A passionate Programmer Robotics from Iran</h3>
+<h1 align="center"> 💀 whoami ➡️ I'm Shin</h1>
+<h3 align="center">A passionate Programmer Robotics from hell.</h3>
 
 <img align="center" alt=" " width = "643 * 304" src="***">
 
